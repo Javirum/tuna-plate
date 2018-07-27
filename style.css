@@ -17,14 +17,12 @@ body {
 
 /* ---- typography ---- */
 
-h1, h2, h3, h4 {
-  max-width: 1000px;
-}
-
 
 /* ---- layout ---- */
 .container {
   margin: 0 auto;
+  max-width: 1000px;
+  text-align: center;
 }
 
 
@@ -32,6 +30,7 @@ h1, h2, h3, h4 {
   .container {
     max-width: 728px;
     margin: 0 auto;
+    text-align: center;
   }
 }
 
@@ -46,14 +45,30 @@ h1, h2, h3, h4 {
 /* ---- components ---- */
 
 section {
-  height: 667px;
   padding: 20px;
   text-align: center;
   margin: 0 auto;
 }
 
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+.card {
+  background-color: white;
+  color: #3b3b3b;
+  padding: 2px 5px;
+
+}
+
+#logo {
+  margin: 15% auto;
+}
+
 #home, #infography {
   background-color: #A9C191;
+  padding-bottom: 0;
 }
 
 #hood {
@@ -72,11 +87,10 @@ section {
   font-size: 16px;
   background-color: transparent;
   padding: 10px 20px;
-  color: #3b3b3b;
-  border: 1px solid #3b3b3b;
+  color: white;
+  border: 2px solid white;
   border-radius: 8px;
   margin: 10px;
-
 }
 /* ---- css shame ---- */
 
