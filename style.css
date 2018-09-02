@@ -64,8 +64,8 @@ img {
 .card {
   background-color: white;
   color: #3b3b3b;
+  width: fit-content;
   padding: 2px 5px;
-
 }
 
 .yellow {
@@ -142,5 +142,6 @@ border-color: #3b3b3b;
 background-color: #A9C191;
 
 }
-/* ---- css shame ---- */
+
+
 
