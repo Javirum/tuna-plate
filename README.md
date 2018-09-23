@@ -2,18 +2,13 @@
 
 > Internal Ironhack Barcelona Hackathon (UX/UI + WebDev)
 
-## How to use
+# What is this?
+Landing page developed for the first Ironhack's Hackaton. We had to create a landing page for a fictional company called “Superfoods.Inc” that aims to increase the consumption of vegetables on teenager's.
 
-- Fork to your github account
-- Use this file to describe your project, plan, take notes, todos, etc...
-- Have fun
+The landing page had to be built following the concept of their marketing campaign: "Bleet don't kale my vibe". For our landing page we created a character that we called Bro-coli, so we could connect with the marketing campaign.
 
-### Files included:
+- Designed for mobile
 
-  - `index.html`
-  - `style.css`
-  - `main.js`
+- Team: Laura Feliz (UX/UI), Charles Beranguer (UX/UI), Paula Balcells (Web development) and Javier Romero (Web Development)
 
-### Folders included:
-
-  - `./assets` (add images, fonts, etc...)
+- Winners of the Best Project Award!
